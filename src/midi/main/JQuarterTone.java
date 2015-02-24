@@ -25,7 +25,7 @@ import midi.receiver.ArabicReceiver;
 public class JQuarterTone extends JFrame implements ActionListener {
 
 	public static final String ABOUT1 = "JQuarterTone v1.1";
-	public static final String ABOUT2 = "by boudhaim@gmail.com\njmiditools.sourceforge.net";
+	public static final String ABOUT2 = "by boudhaim@gmail.com\nhttps://code.google.com/p/jquartertone";
 
 	private static final long serialVersionUID = 1L;
 	private static int look;
